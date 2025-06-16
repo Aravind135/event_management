@@ -4,7 +4,7 @@ app_publisher = "Admin"
 app_description = "Event Management"
 app_email = "admin@gmail.com"
 app_license = "unlicense"
-
+fixtures = ["Custom Field", "DocType", "Workflow", "Role"]
 # Apps
 # ------------------
 
